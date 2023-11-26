@@ -33,7 +33,6 @@ body {
 #form-container {
     display: flex;
     flex-direction: column;
-
     padding: 5px;
     font-size: x-large;
 
@@ -43,7 +42,6 @@ body {
     /* background-color: aqua; */
     display: flex;
     flex-direction: column;
-
     padding: 5px;
     margin-bottom: 10px;
 }
@@ -87,6 +85,10 @@ button:hover {
     margin: 5px;
 }
 
-@media screen {
-    
+@media screen and (min-width:950px) {
+    #main-container {
+      
+        min-width: 50%;
+
+    } 
 }
