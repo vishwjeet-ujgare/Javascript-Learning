@@ -1,0 +1,86 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(img/blackjack-game-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgba(255, 255, 255, 0.928);
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#heading {
+    color: white;
+}
+
+#main-container {
+    background-color: rgba(231, 156, 156, 0.396);
+    width: 90%;
+    height: 90%;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+p {
+    font-size: larger;
+}
+
+#btn-container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.btn {
+    padding: 5%;
+    margin: 5px;
+    font-size: x-large;
+    font-weight: bold;
+    border: none;
+    color: white;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+#start-btn {
+    background-color: green;
+}
+
+#new-card-btn {
+    background-color: rgba(9, 9, 227, 0.892);
+}
+
+#reset-game-btn {
+    background-color: rgba(234, 9, 9, 0.886);
+}
+
+#msg-el
+{
+    background-color: yellow;
+    color: black;
+    
+}
+@media screen and (min-width:850px) {
+
+    #main-container {
+        background-color: rgba(184, 186, 184, 0.747);
+        font-size: x-large;
+    }
+
+    #main-container {
+        width: 60%;    
+    }
+    #btn-container {
+    display: block;
+    
+    }
+  
+    .btn {
+        padding: 15px;
+        width: 50%;
+        justify-content: center;
+    }
+}
