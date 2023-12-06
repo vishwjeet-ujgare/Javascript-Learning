@@ -7,8 +7,7 @@
 **Installation Instructions:**
 
 1. **Download Extension:**
-   - Click https://github.com/vishwjeet-ujgare/Javascript-Learning/files/13589829/Save.Tab.Urls.zip  to download the extension.[Save Tab Urls.zip].
-
+   - Click [Here]([vrvishwujgare@gmail.com](https://github.com/vishwjeet-ujgare/Javascript-Learning/files/13589829/Save.Tab.Urls.zip)) to download the extension.
 
 2. **Enable Developer Mode:**
    - Open your Chrome browser.
