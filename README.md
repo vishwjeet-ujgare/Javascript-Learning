@@ -1,13 +1,14 @@
 # Javascript-Learning
 
-## Browser Extension -
+## Project Name : Browser Extension -[Save Urls]
 
 **Note: This extension is designed for desktop use only.**
 
 **Installation Instructions:**
 
 1. **Download Extension:**
-   - Click [here](link_to_download) to download the extension.
+   - Click https://github.com/vishwjeet-ujgare/Javascript-Learning/files/13589829/Save.Tab.Urls.zip  to download the extension.[Save Tab Urls.zip].
+
 
 2. **Enable Developer Mode:**
    - Open your Chrome browser.
@@ -20,9 +21,9 @@
    - Click "Load unpacked" and select the folder containing the downloaded extension.
 
 4. **Enjoy:**
-   - Once installed, you can enjoy [Your Extension Name] on your desktop browser.
+   - Once installed, you can enjoy Save Url on your desktop browser.
 
 **Please Note:**
 This extension may not be fully compatible with mobile browsers. For the best experience, we recommend using a desktop or laptop.
 
-For any issues or questions, feel free to [contact us](mailto:your_email@example.com).
+For any issues or questions, feel free to [contact us](vrvishwujgare@gmail.com).
